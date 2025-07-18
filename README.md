@@ -10,9 +10,9 @@ This repository contains a collection of Python scripts that automate everyday t
 
 automation-with-python/
 ├── hacker-news-email/
-│   ├── send\_news.py
+│   ├── hackerNews.py
 │   ├── requirements.txt
-│   ├── .env.example
+│   ├── .env
 │   └── README.md
 ├── file-renamer/
 │   └── rename\_files.py
