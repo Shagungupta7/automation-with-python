@@ -14,14 +14,10 @@ automation-with-python/
 │   ├── requirements.txt
 │   ├── .env
 │   └── README.md
-├── file-renamer/
-│   └── rename\_files.py
-├── pdf-merger/
-│   └── merge\_pdfs.py
-├── whatsapp-automation/
-│   └── send\_whatsapp.py
-├── .gitignore
-└── README.md
+├── ted-talk-downloader/
+│   ├── downloader.py
+│   ├── requirements.txt
+│   └── README.md
 
 ````
 
