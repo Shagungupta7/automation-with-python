@@ -1,5 +1,3 @@
-
-````markdown
 # 📰 Hacker News Headline Scraper
 
 This Python script fetches the top stories from [Hacker News](https://news.ycombinator.com/) and prints their headlines and URLs.
