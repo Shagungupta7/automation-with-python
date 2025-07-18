@@ -51,7 +51,7 @@ Create a `.env` file and add necessary keys (refer to `.env.example` if availabl
 ### 5. Run the script
 
 ```bash
-python send_news.py
+python hackerNews.py
 ```
 
 ---
