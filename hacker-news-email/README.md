@@ -51,12 +51,3 @@ python hackernews.py
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-```
-
----
-
-Let me know if you want to automate this script to email or save the headlines daily too — we can add those features later.
-```
