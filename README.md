@@ -4,25 +4,6 @@ This repository contains a collection of Python scripts that automate everyday t
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-automation-with-python/
-├── hacker-news-email/
-│   ├── hackerNews.py
-│   ├── requirements.txt
-│   ├── .env
-│   └── README.md
-├── ted-talk-downloader/
-│   ├── downloader.py
-│   ├── requirements.txt
-│   └── README.md
-
-````
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
