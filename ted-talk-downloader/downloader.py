@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup 
-import re #Regular expression pattern matching
 import sys #for argument parsing
 import json
 import os

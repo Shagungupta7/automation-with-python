@@ -55,17 +55,14 @@ python hackerNews.py
 ```
 
 ---
-
 ## 🧰 Available Scripts
 
-| Folder                | Description                                       |
-| --------------------- | ------------------------------------------------- |
-| `hacker-news-email`   | Sends top Hacker News stories to your email daily |
-| `file-renamer`        | Batch renames files in a folder                   |
-| `pdf-merger`          | Merges multiple PDF files into one                |
-| `whatsapp-automation` | Sends WhatsApp messages using `pywhatkit`         |
+| Folder               | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| `hacker-news-email`  | Sends top Hacker News stories to your email daily using the HN API          |
+| `table-from-pdf`     | Extracts tables from a PDF using Camelot and visualizes data with Seaborn   |
+| `ted-talk-downloader`| Downloads TED Talks using `youtube_dl` by scraping TED video URLs           |
 
----
 
 ## 🔐 Environment Variables
 
