@@ -61,7 +61,7 @@ python hackerNews.py
 |----------------------|-----------------------------------------------------------------------------|
 | `hacker-news-email`  | Sends top Hacker News stories to your email daily using the HN API          |
 | `table-from-pdf`     | Extracts tables from a PDF using Camelot and visualizes data with Seaborn   |
-| `ted-talk-downloader`| Downloads TED Talks using `youtube_dl` by scraping TED video URLs           |
+| `ted-talk-downloader`| Downloads TED Talks       |
 
 
 ## 🔐 Environment Variables
